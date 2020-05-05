@@ -1,0 +1,20 @@
+body {
+ background-color:gray;
+}
+.container  {
+  width:370px;
+ height:40px;
+ display:flex;
+ background-color:white;
+ align-items:center;
+ text-align:justify;
+ justify-content:space-between;
+ border-radius:10px;
+}
+.menu {
+  list-style:none;
+  display:flex;
+}
+.item {
+  margin:10px;
+}
